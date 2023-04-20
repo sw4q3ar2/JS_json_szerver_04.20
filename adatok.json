@@ -1,0 +1,32 @@
+{
+    "OBJEKTUMLISTA":[
+    { 
+      "id": 1,
+      "Type": "Karambit", 
+      "Exterior": "Factory New", 
+      "skin": "★ Case Hardened", 
+      "float": 0.06874693 
+    },
+    { 
+      "id": 2,
+      "Type": "M9-Bayonet", 
+      "Exterior": "Minimal Wear", 
+      "skin": "★ Case Hardened", 
+      "float": 0.13224642
+    },
+    { 
+      "id": 3,
+      "Type": "Bayonett", 
+      "Exterior": "Filed-Tested", 
+      "skin": "★ Case Hardened", 
+      "float": 0.00874591 
+    },
+    { 
+      "id": 4,
+      "Type": "Flip", 
+      "Exterior": "Well-Worn", 
+      "skin": "★ Case Hardened", 
+      "float": 0.56874697 
+    }
+  ]
+}

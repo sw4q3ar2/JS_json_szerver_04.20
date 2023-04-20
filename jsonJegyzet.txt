@@ -1,0 +1,1 @@
+A json-nek objektumnak kell lennie.
